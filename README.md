@@ -2,6 +2,8 @@
 
 A CRT scanline shader for **Diablo II (Project Diablo 2 / D2GL)**, purpose-built for
 **exact 2x integer scaling** — the one geometry where classic CRT presets break.
+<img width="2136" height="1200" alt="image" src="https://github.com/user-attachments/assets/09a74fe5-92c3-40aa-b408-ff073e8abfc0" />
+<img width="2136" height="1200" alt="image" src="https://github.com/user-attachments/assets/28a5c6b1-faff-4fea-97e6-7b8c0f6ad6df" />
 
 Diablo II with widescreen support renders internally at **1068x600**. Run it in a
 **2136x1200 window** and every source pixel becomes a perfect 2x2 block: zero invented
