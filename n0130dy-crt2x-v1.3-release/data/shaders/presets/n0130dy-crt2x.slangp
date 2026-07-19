@@ -1,5 +1,0 @@
-shaders = 1
-shader0 = ../n0130dy/shaders/n0130dy-crt2x.slang
-filter_linear0 = true
-scale_type0 = viewport
-scale0 = 1.0
